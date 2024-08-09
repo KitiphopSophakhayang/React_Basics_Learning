@@ -1,0 +1,15 @@
+.item-list{
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.item-list li{
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    padding: 30px;
+    color: #7700ff;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 15px;
+}
